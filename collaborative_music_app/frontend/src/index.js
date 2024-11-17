@@ -1,1 +1,1 @@
-const a = 10;
+import App from "./components/App";
